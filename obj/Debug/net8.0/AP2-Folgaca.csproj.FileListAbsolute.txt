@@ -1,0 +1,14 @@
+c:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\AP2-Folgaca.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\AP2-Folgaca.AssemblyInfoInputs.cache
+c:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\AP2-Folgaca.AssemblyInfo.cs
+c:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\AP2-Folgaca.csproj.CoreCompileInputs.cache
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\bin\Debug\net8.0\AP2-Folgaca.exe
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\bin\Debug\net8.0\AP2-Folgaca.deps.json
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\bin\Debug\net8.0\AP2-Folgaca.runtimeconfig.json
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\bin\Debug\net8.0\AP2-Folgaca.dll
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\bin\Debug\net8.0\AP2-Folgaca.pdb
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\AP2-Folgaca.dll
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\refint\AP2-Folgaca.dll
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\AP2-Folgaca.pdb
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\AP2-Folgaca.genruntimeconfig.cache
+C:\Users\Raissa\Desktop\Folgaça\AP2-Folgaca\obj\Debug\net8.0\ref\AP2-Folgaca.dll
